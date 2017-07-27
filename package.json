@@ -1,5 +1,5 @@
 {
-  "name": "how-to-npm-practice",
+  "name": "@alvaromesa/how-to-npm-practice",
   "version": "1.0.0",
   "description": "practicando npm",
   "main": "index.js",
@@ -7,5 +7,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "alvaro",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TSIIAM/npmWorkshop.git"
+  },
+  "keywords": [
+    "practicando",
+    "npm",
+    "alojado",
+    "en",
+    "repositorio",
+    "git"
+  ],
+  "bugs": {
+    "url": "https://github.com/TSIIAM/npmWorkshop/issues"
+  },
+  "homepage": "https://github.com/TSIIAM/npmWorkshop#readme"
 }
