@@ -1,27 +1,22 @@
 {
-  "name": "@alvaromesa/how-to-npm-practice",
+  "name": "npmworkshop",
   "version": "1.0.0",
-  "description": "practicando npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "author": "alvaro",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TSIIAM/npmWorkshop.git"
   },
-  "keywords": [
-    "practicando",
-    "npm",
-    "alojado",
-    "en",
-    "repositorio",
-    "git"
-  ],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/TSIIAM/npmWorkshop/issues"
   },
-  "homepage": "https://github.com/TSIIAM/npmWorkshop#readme"
+  "homepage": "https://github.com/TSIIAM/npmWorkshop#readme",
+  "description": "README.md",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
